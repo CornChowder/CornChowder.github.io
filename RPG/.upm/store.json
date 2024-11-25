@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"16a7e94731a416126c9a3fd5f8ce1c93","lockfileHash":"5e992e1c741d2eab7a2881073b54c3a9","guessedImports":["express","sqlite3","sqlite","socket.io","@socket.io/cluster-adapter"],"guessedImportsHash":"88ee90d5a3f94155c5e6caf395f413e8"}}}
